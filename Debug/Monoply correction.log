@@ -1,0 +1,22 @@
+﻿  Cards.cpp
+  Chance.cpp
+  CommunityChest.cpp
+  Corners.cpp
+  Monopoly.cpp
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(3,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT'
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(73,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(79,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(87,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(94,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Header.h(101,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+  NormalPlaces.cpp
+  places.cpp
+  Player.cpp
+  Source.cpp
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Monopoly.cpp(139,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpecialPlaces.cpp
+  Upgrade.cpp
+  Generating Code...
+F:\Spring 2019\OOP\Semester Project\Monoply correction\Source.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Monoply correction.vcxproj -> F:\Spring 2019\OOP\Semester Project\Monoply correction\Debug\Monoply correction.exe
